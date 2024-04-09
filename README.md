@@ -1,0 +1,1 @@
+<iframe title="Grupo Varejo Brasil" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8b9963c1-750e-4141-b627-077240331fc5&autoAuth=true&ctid=e8cf2639-1f98-4bb4-bd89-abd14928937f" frameborder="0" allowFullScreen="true"></iframe>
